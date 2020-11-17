@@ -1,7 +1,6 @@
 import './App.css';
 import 'tachyons'
 import SearchBox from './Components/SearchBox.js'
-import robots from './Components/robots'
 import CardList from './Components/CardList.js'
 import { useState, useEffect } from 'react'
 
